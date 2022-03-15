@@ -1,0 +1,13 @@
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\bin\Debug\netcoreapp3.1\bewerbung.exe
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\bin\Debug\netcoreapp3.1\bewerbung.deps.json
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\bin\Debug\netcoreapp3.1\bewerbung.runtimeconfig.json
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\bin\Debug\netcoreapp3.1\bewerbung.runtimeconfig.dev.json
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\bin\Debug\netcoreapp3.1\bewerbung.dll
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\bin\Debug\netcoreapp3.1\bewerbung.pdb
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\obj\Debug\netcoreapp3.1\bewerbung.csprojAssemblyReference.cache
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\obj\Debug\netcoreapp3.1\bewerbung.AssemblyInfoInputs.cache
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\obj\Debug\netcoreapp3.1\bewerbung.AssemblyInfo.cs
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\obj\Debug\netcoreapp3.1\bewerbung.csproj.CoreCompileInputs.cache
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\obj\Debug\netcoreapp3.1\bewerbung.dll
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\obj\Debug\netcoreapp3.1\bewerbung.pdb
+C:\Users\Kristof\source\repos\bewerbung\bewerbung\obj\Debug\netcoreapp3.1\bewerbung.genruntimeconfig.cache
